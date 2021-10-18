@@ -1,0 +1,3 @@
+export const LOAD_COINS = 'LOAD_COINS';
+export const LOAD_COINS_SUCCESS = 'LOAD_COINS_SUCCESS';
+export const LOAD_COINS_FAILED = 'LOAD_COINS_FAILED';
